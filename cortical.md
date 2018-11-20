@@ -73,7 +73,6 @@ On 7th August 2015, an updated version (AAL2) has been released.
 
 _How to obtain the atlas:_
 
-*   The atlas comes preinstalled with Lead-DBS
 *   [You can get information about the AAL atlas here](http://www.gin.cnrs.fr/AAL)
 *   [Updates on the AAL-2 atlas are described here](http://www.gin.cnrs.fr/AAL2)
 
@@ -91,7 +90,6 @@ Based on the influential brain networks published by Thomas Yeo (2011), these no
 
 _How to obtain the atlas:_
 
-*   The atlas comes preinstalled with Lead-DBS
 *   [You can get more information here](https://github.com/ThomasYeoLab/CBIG/tree/master/stable_projects/brain_parcellation/Schaefer2018_LocalGlobal)
 
 _Related citations:_
@@ -108,7 +106,6 @@ Not exactly a whole-brain parcellation but a parcellation of the human (pre-)mot
 
 _How to obtain the atlas:_
 
-*   The atlas comes preinstalled with Lead-DBS
 *   [You can get more information here](http://lrnlab.org/)
 
 _Related citations:_
@@ -125,7 +122,6 @@ Not exactly a whole-brain parcellation but a template of the corticospinal tract
 
 _How to obtain the atlas:_
 
-*   The atlas comes preinstalled with Lead-DBS
 *   [You can get more information here](http://lrnlab.org/)[](http://fsl.fmrib.ox.ac.uk/fsl/fslwiki/Atlases)
 
 _Related citations:_
@@ -142,7 +138,6 @@ A frequently applied cortical atlas motivated by macroanatomical boundaries.
 
 _How to obtain the atlas:_
 
-*   The atlas comes preinstalled with Lead-DBS
 *   [You can get more information here](http://www.cma.mgh.harvard.edu/)
 *   [Additionally, you can get information about the atlas on the FSL atlases page here](http://fsl.fmrib.ox.ac.uk/fsl/fslwiki/Atlases)
 
@@ -200,7 +195,6 @@ fMRI atlas based on 1000 subjects exhibiting co-activations of the brain. Two ve
 
 _How to obtain the atlas:_
 
-*   The atlas comes preinstalled with Lead-DBS
 *   [The atlas is described here](https://surfer.nmr.mgh.harvard.edu/fswiki/CorticalParcellation_Yeo2011)
 
 _Related citations:_

@@ -9,7 +9,7 @@ If you know of an atlas not currently in this list, feel free to fork this repos
 -----------------------------------------
 ### Mindboggle 101 (Klein 2012)
 
-The Mindboggle 101 dataset consists of 101 labeled brain images that have been manually labeled largely following the Desikan protocol. It also consists of a group-level parcellation atlas which has been included into Lead-DBS for connectomic analyses.
+The Mindboggle 101 dataset consists of 101 labeled brain images that have been manually labeled largely following the Desikan protocol.
 
 _How to obtain the atlas:_
 
@@ -207,7 +207,7 @@ _Related citations:_
 -----------------------------------------
 ### HCP MMP 1.0 (Glasser 2016)
 
-Probably the most detailed cortical in-vivo parcellation yet, the HCP MMP 1.0 has been built using surface-based registrations of multimodal MR acquisitions from 210 HCP subjects. 180 areas per hemisphere have been identified. Please note that due to the nature of how this parcellation has been built, it may not be ideally suited for usage within Lead-DBS.
+Probably the most detailed cortical in-vivo parcellation yet, the HCP MMP 1.0 has been built using surface-based registrations of multimodal MR acquisitions from 210 HCP subjects. 180 areas per hemisphere have been identified.
 
 _How to obtain the atlas:_
 
@@ -272,7 +272,6 @@ A parcellation scheme widely used in the freesurfer world subdividing the human 
 _How to obtain the atlas:_
 
 *   [More information about this atlas can be found here.](https://surfer.nmr.mgh.harvard.edu/fswiki/CorticalParcellation)
-*   Please also cf the Mindboggle 101 parcellation listed on this page which follows an adapted Desikan protocol, is available in volumetric space and is being distributed within Lead-DBS.
 
 _Related citations:_
 
@@ -324,7 +323,6 @@ Fine-grained random parcellations informed by rs-fMRI data.
 
 _How to obtain the atlas:_
 
-*   Two of the functional parcellations come preinstalled within Lead-DBS.
 *   [For more information please see this page.](http://ccraddock.github.io/cluster_roi/atlases.html)
 
 _Related citations:_
@@ -358,7 +356,6 @@ Not a whole-brain parcellation but parcellating the cerebellum into anatomical r
 _How to obtain the atlas:_
 
 *   [You can find more information about SUIT here.](http://www.diedrichsenlab.org/imaging/suit.htm)
-*   These parcellation schemes come preinstalled within Lead-DBS.
 
 _Related citations:_
 
@@ -377,7 +374,6 @@ Not a whole-brain parcellation but a parcellation of the cerebellum into seven (
 _How to obtain the atlas:_
 
 *   [The parcellation was released within the freesurfer software.](http://www.freesurfer.net/fswiki/CerebellumParcellation_Buckner2011)
-*   These parcellation schemes come preinstalled within Lead-DBS.
 
 _Related citations:_
 

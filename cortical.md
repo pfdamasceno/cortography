@@ -5,8 +5,8 @@ This list builds upon [Andreas Horn's](http://andreas-horn.de) detailed [collect
 If you know of an atlas not currently in this list, feel free to fork this repository, include the missing atlas, and submit a Pull Request.
 
 ## Cortical Atlas Parcellations in MNI space
------------------------------------------
 
+-----------------------------------------
 ### Mindboggle 101 (Klein 2012)
 
 The Mindboggle 101 dataset consists of 101 labeled brain images that have been manually labeled largely following the Desikan protocol. It also consists of a group-level parcellation atlas which has been included into Lead-DBS for connectomic analyses.
@@ -22,6 +22,7 @@ _Related citations:_
 
 <img src="http://www.lead-dbs.org/wp-content/uploads/Mindboggle101_FIBIM2012.1200x1200.jpeg" height="100">
 
+-----------------------------------------
 ### Cortical Area Parcellation from Resting-State Correlations (Gordon 2016)
 
 The Cortical Area Parcellation from Resting-State Correlations dataset consists of 333 cortical patches segmented using resting-state fMRI (Gordon 2014).
@@ -37,6 +38,7 @@ _Related citations:_
 
 <img src="http://www.lead-dbs.org/wp-content/uploads/gordon2014-845x684.png" height="100">
 
+-----------------------------------------
 ### MICCAI 2012 Multi-Atlas Labeling Workshop and Challenge (Neuromorphometrics)
 
 The MICCAI 2012 Multi-Atlas Labeling Workshop and Challenge dataset is a manually segmented whole-brain parcellation (see refs).
@@ -47,6 +49,7 @@ _How to obtain the atlas:_
 
 <img src="http://www.lead-dbs.org/wp-content/uploads/miccaichallenge-845x684.png" height="100">
 
+-----------------------------------------
 ### Brainnetome Atlas parcellation (Fan 2016)
 
 The Brainnetome atlas is an in vivo map based on fMRI and dMRI, with more fine-grained functional brain subregions and detailed anatomical and functional connection patterns for each area. Currently, the Brainnetome atlas contains 246 subregions of the bilateral hemispheres.
@@ -62,6 +65,7 @@ _Related citations:_
 
 <img src="http://www.lead-dbs.org/wp-content/uploads/brainnetome.001.png" height="100">
 
+-----------------------------------------
 ### Automated Anatomical Labeling (Tzourio-Mazoyer 2002)
 
 The AAL atlas is probably the most widely used cortical parcellation map in connectomic literature.
@@ -80,6 +84,7 @@ _Related citations:_
 
 <img src="http://www.lead-dbs.org/wp-content/uploads/aal-289x300.png" height="200">
 
+-----------------------------------------
 ### Local-Global Parcellation of the Human Cerebral Cortex (Schaefer 2018)
 
 Based on the influential brain networks published by Thomas Yeo (2011), these novel parcellations add further refinement by subparcellating the global networks based on a local gradient approach. Parcellations come in several version, breaking down the cortex into up to 1000 regions based on rs-fMRI.
@@ -96,6 +101,7 @@ _Related citations:_
 
 <img src="http://www.lead-dbs.org/wp-content/uploads/schaefer-997x1030.png" height="200">
 
+-----------------------------------------
 ### Human Motor Area Template (Mayka 2005)
 
 Not exactly a whole-brain parcellation but a parcellation of the human (pre-)motor cortex.
@@ -112,6 +118,7 @@ _Related citations:_
 
 <img src="http://www.lead-dbs.org/wp-content/uploads/hmat-997x1030.png" height="200">
 
+-----------------------------------------
 ### Sensorimotor Area Tract Template (Archer 2017)
 
 Not exactly a whole-brain parcellation but a template of the corticospinal tract originating from sensory & motor areas in MNI space.
@@ -128,6 +135,7 @@ _Related citations:_
 
 <img src="http://www.lead-dbs.org/wp-content/uploads/s_matt-997x1030.png" height="200">
 
+-----------------------------------------
 ### Harvard-Oxford cortical/subcortical atlases (Makris 2006)
 
 A frequently applied cortical atlas motivated by macroanatomical boundaries.
@@ -151,6 +159,7 @@ _Related citations:_
 
 <img src="http://www.lead-dbs.org/wp-content/uploads/harvardoxford-289x300.png" height="200">
 
+-----------------------------------------
 ### AICHA: An atlas of intrinsic connectivity of homotopic areas (Joliot 2015)
 
 The AICHA atlas – a detailed cortical atlas based on functional connectivity in 281 subjects.
@@ -166,6 +175,7 @@ _Related citations:_
 
 <img src="http://www.lead-dbs.org/wp-content/uploads/aicha-289x300.png" height="200">
 
+-----------------------------------------
 ### Hammersmith atlas (Hammers 2003, Gousias 2008)
 
 Adult brain maximum probability map (“Hammersmith atlas”; n30r83) in MNI space.
@@ -183,6 +193,7 @@ _Related citations:_
 
 <img src="http://www.lead-dbs.org/wp-content/uploads/hammersmith-289x300.png" height="200">
 
+-----------------------------------------
 ### Yeo 2011 functional parcellations (Yeo 2011)
 
 fMRI atlas based on 1000 subjects exhibiting co-activations of the brain. Two versions are available that include 7 vs. 17 neworks.
@@ -199,6 +210,7 @@ _Related citations:_
 
 <img src="http://www.lead-dbs.org/wp-content/uploads/yeo-289x300.png" height="200">
 
+-----------------------------------------
 ### HCP MMP 1.0 (Glasser 2016)
 
 Probably the most detailed cortical in-vivo parcellation yet, the HCP MMP 1.0 has been built using surface-based registrations of multimodal MR acquisitions from 210 HCP subjects. 180 areas per hemisphere have been identified. Please note that due to the nature of how this parcellation has been built, it may not be ideally suited for usage within Lead-DBS.
@@ -216,6 +228,7 @@ _Related citations:_
 
 <img src="http://www.lead-dbs.org/wp-content/uploads/hcp_mmp1.png" height="150">
 
+-----------------------------------------
 ### JuBrain / Juelich histological atlas (Eickhoff 2005)
 
 A probabilistic atlas created by averaging multi-subject post-mortem cyto- and myelo-architectonic segmentations, performed by the team of Profs Zilles and Amunts in Jülich and Düsseldorf. Cytoarchitectonic areas were analyzed in histological sections of ten human postmortem brains. The maps are based on image analysis and statistical criteria for localizing areal borders. Cytoarchitectonic maps have been developed during the past 20 years as a joint effort of many doctoral students, post docs and guest scientists. Maps, which have been published, are available for the scientific community.
@@ -239,6 +252,7 @@ _Related citations:_
 
 <img src="http://www.lead-dbs.org/wp-content/uploads/juelich.png" height="200">
 
+-----------------------------------------
 ### PrAGMATiC (Huth 2016)
 
 Advanced and modern functional atlas based on task fMRI.
@@ -256,6 +270,7 @@ _Related citations:_
 
 <img src="http://www.lead-dbs.org/wp-content/uploads/pragmatic-300x231.png" height="100">
 
+-----------------------------------------
 ### Desikan-Killiany Atlas (Desikan 2006)
 
 A parcellation scheme widely used in the freesurfer world subdividing the human cerebral cortex on MRI scans into gyral based regions of interest.
@@ -272,6 +287,7 @@ _Related citations:_
 
 <img src="http://www.lead-dbs.org/wp-content/uploads/desikan.001.png" height="200">
 
+-----------------------------------------
 ### Destrieux Atlas (Destrieux 2010)
 
 A parcellation scheme widely used in the freesurfer world based on sulcal depth and yielding precise automated definition of cortical gyri and sulci.
@@ -289,6 +305,7 @@ _Related citations:_
 
 <img src="http://www.lead-dbs.org/wp-content/uploads/destrieux.001.png" height="200">
 
+-----------------------------------------
 ### MarsAtlas (Auzias 2016)
 
 A cortical parcellation model based on macroanatomical information.
@@ -306,6 +323,7 @@ _Related citations:_
 
 <img src="http://www.lead-dbs.org/wp-content/uploads/marsAtlas-template-e1458593354824-300x98.jpg " height="100">
 
+-----------------------------------------
 ### fMRI-based random parcellations (Craddock 2011)
 
 Fine-grained random parcellations informed by rs-fMRI data.
@@ -322,6 +340,7 @@ _Related citations:_
 
 <img src="http://www.lead-dbs.org/wp-content/uploads/randomcraddock-289x300.png" height="200">
 
+-----------------------------------------
 ### Voxelwise parcellations (Lead-DBS)
 
 Three voxel-wise parcellations are supplied with Lead-DBS and have been built to create standardized connectivity matrices that exhibit off-diagonal elements that appear as parallel lines to the main diagonal (inter-hemispheric connections between homologous regions). Three versions (35 thousand, 15 thousand and 8 thousand nodes) are pre-installed within Lead-DBS. Together with advanced normalization algorithms (such as multimodal ANTs defaults and DARTEL pipelines), these connectivity matrices allow for high-definition connectomic analyses in parcellation schemes that are comparable across studies.
@@ -337,6 +356,7 @@ _Related citations:_
 
 <img src="http://www.lead-dbs.org/wp-content/uploads/voxelwiseleaddbs-289x300.png" height="200">
 
+-----------------------------------------
 ### SUIT Cerebellar parcellation (Diedrichsen 2006)
 
 Not a whole-brain parcellation but parcellating the cerebellum into anatomical regions. Useful to test structural/functional connectivity between DBS leads and cerebellar subregions.
@@ -355,6 +375,7 @@ _Related citations:_
 
 <img src="http://www.lead-dbs.org/wp-content/uploads/suit-1-997x1030.png" height="200">
 
+-----------------------------------------
 ### Buckner functional cerebellar parcellation (Buckner 2011)
 
 Not a whole-brain parcellation but a parcellation of the cerebellum into seven (or seventeen) functional zones that correspond to the Yeo 2011 whole-brain parcellations based on 1000 healthy subjects.

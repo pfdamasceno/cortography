@@ -1,0 +1,69 @@
+Name,short_name , x.mni , y.mni , z.mni ,lobe,hemisphere,index,
+ctx-lh-bankssts,   lBSTS ,-56,-44,5, Temporal ,   L ,1,L bank of the superior temporal sulcus
+ctx-lh-caudalanteriorcingulate,   lcACC ,-2,21,27,Cingulate ,   L ,2,L caudal anterior cingulate
+ctx-lh-caudalmiddlefrontal,   lcMFG ,-45,18,46,  Frontal ,   L ,3,L caudal middle frontal gyrus
+ctx-lh-cuneus,    lCUN ,-1,-82,20,Occipital ,   L ,4,L cuneus
+ctx-lh-entorhinal,    lENT ,-16,-10,-29, Temporal ,   L ,5,L entorhinal
+ctx-lh-fusiform,    lFUS ,-24,-54,-16, Temporal ,   L ,6,L fusiform
+ctx-lh-inferiorparietal,    lIPL ,-47,-70,31, Parietal ,   L ,7,L inferior parietal lobule
+ctx-lh-inferiortemporal,    lITG ,-56,-32,-24, Temporal ,   L ,8,L inferior temporal gyrus
+ctx-lh-isthmuscingulate,    liCC ,-1,-48,25,Cingulate ,   L ,9,L isthmus cingulate cortex
+ctx-lh-lateraloccipital,    lLOG ,-43,-87,1,Occipital ,   L ,10,L lateral occipital gyrus
+ctx-lh-lateralorbitofrontal,    lLOF ,-35.98,30.71,-12.11,  Frontal ,   L ,11,L lateral orbitofrontal
+ctx-lh-lingual,   lLING ,-3,-73,-1,Occipital ,   L ,12,L lingual
+ctx-lh-medialorbitofrontal,    lMOF ,-4,44,-14,  Frontal ,   L ,13,L medial orbitofrontal
+ctx-lh-middletemporal,    lMTG ,-68,-29,-13, Temporal ,   L ,14,L middle temporal gyrus
+ctx-lh-parahippocampal,   lPARH ,-18,-30,-18, Temporal ,   L ,15,L parahippocampal
+ctx-lh-paracentral,  lparaC ,-3,-28,62,  Frontal ,   L ,16,L paracentral
+ctx-lh-parsopercularis,  lpOPER ,-57,22,18,  Frontal ,   L ,17,L pars opercularis
+ctx-lh-parsorbitalis,   lpORB ,-44,48,-13,  Frontal ,   L ,18,L pars orbitalis
+ctx-lh-parstriangularis,   lpTRI ,-50,35,3,  Frontal ,   L ,19,L pars triangularis
+ctx-lh-pericalcarine,lperiCAL ,-12,-89,3,Occipital ,   L ,20,L pericalcarine
+ctx-lh-postcentral,  lpostC ,-50,-26,58, Parietal ,   L ,21,L postcentral
+ctx-lh-posteriorcingulate,    lPCC ,-1,-18,38,Cingulate ,   L ,22,L posterior cingulate cortex
+ctx-lh-precentral,   lpreC ,-44,-12,59,  Frontal ,   L ,23,L precentral
+ctx-lh-precuneus,   lPCUN ,-9,-59,46, Parietal ,   L ,24,L precuneus
+ctx-lh-rostralanteriorcingulate,   lrACC ,-2,39,6,Cingulate ,   L ,25,L rostral anterior cingulate cortex
+ctx-lh-rostralmiddlefrontal,   lrMFG ,-34,53,17,  Frontal ,   L ,26,L rostral middle frontal gyrus
+ctx-lh-superiorfrontal,    lSFG ,-21,38,50,  Frontal ,   L ,27,L superior frontal gyrus
+ctx-lh-superiorparietal,    lSPL ,-25,-62,63, Parietal ,   L ,28,L superior parietal lobule
+ctx-lh-superiortemporal,    lSTG ,-63,-7,-1, Temporal ,   L ,29,L superior temporal gyrus
+ctx-lh-supramarginal,   lSMAR ,-60,-41,39, Parietal ,   L ,30,L supramarginal gyrus
+ctx-lh-frontalpole,     lFP ,-9,65,-12,  Frontal ,   L ,31,L frontal pole
+ctx-lh-temporalpole,     lTP ,-26,15,-35, Temporal ,   L ,32,L temporal pole
+ctx-lh-transversetemporal,     lTT ,-49,-23,9, Temporal ,   L ,33,L transverse temporal
+ctx-lh-insula,    lINS ,-41,13,-6,   Insula ,   L ,34,L insula
+ctx-rh-bankssts,   rBSTS ,50,-42,6, Temporal ,   R ,35,R bank of the superior temporal sulcus
+ctx-rh-caudalanteriorcingulate,   rcACC ,3,21,27,Cingulate ,   R ,36,R caudal anterior cingulate
+ctx-rh-caudalmiddlefrontal,   rcMFG ,43,14,43,  Frontal ,   R ,37,R caudal middle frontal gyrus
+ctx-rh-cuneus,    rCUN ,3,-81,19,Occipital ,   R ,38,R cuneus
+ctx-rh-entorhinal,    rENT ,21,-4,-32, Temporal ,   R ,39,R entorhinal
+ctx-rh-fusiform,    rFUS ,33,-52,-19, Temporal ,   R ,40,R fusiform
+ctx-rh-inferiorparietal,    rIPL ,48,-67,29, Parietal ,   R ,41,R inferior parietal lobule
+ctx-rh-inferiortemporal,    rITG ,61,-31,-27, Temporal ,   R ,42,R inferior temporal gyrus
+ctx-rh-isthmuscingulate,    riCC ,1,-48,26,Cingulate ,   R ,43,R isthmus cingulate cortex
+ctx-rh-lateraloccipital,    rLOG ,38,-88,1,Occipital ,   R ,44,R lateral occipital gyrus
+ctx-rh-lateralorbitofrontal,    rLOF ,20,38,-21,  Frontal ,   R ,45,R lateral orbitofrontal
+ctx-rh-lingual,   rLING ,5,-69,-1,Occipital ,   R ,46,R lingual
+ctx-rh-medialorbitofrontal,    rMOF ,7,45,-13,  Frontal ,   R ,47,R medial orbitofrontal
+ctx-rh-middletemporal,    rMTG ,69,-24,-14, Temporal ,   R ,48,R middle temporal gyrus
+ctx-rh-parahippocampal,   rPARH ,20,-29,-17, Temporal ,   R ,49,R parahippocampal
+ctx-rh-paracentral,  rparaC ,4,-25,61,  Frontal ,   R ,50,R paracentral
+ctx-rh-parsopercularis,  rpOPER ,57,15,17,  Frontal ,   R ,51,R pars opercularis
+ctx-rh-parsorbitalis,   rpORB ,49,40,-13,  Frontal ,   R ,52,R pars orbitalis
+ctx-rh-parstriangularis,   rpTRI ,55,31,5,  Frontal ,   R ,53,R pars triangularis
+ctx-rh-pericalcarine,rperiCAL ,14,-85,5,Occipital ,   R ,54,R pericalcarine
+ctx-rh-postcentral,  rpostC ,51,-23,56, Parietal ,   R ,55,R postcentral
+ctx-rh-posteriorcingulate,    rPCC ,1,-16,37,Cingulate ,   R ,56,R posterior cingulate cortex
+ctx-rh-precentral,   rpreC ,47,-9,54,  Frontal ,   R ,57,R precentral
+ctx-rh-precuneus,   rPCUN ,7,-57,41, Parietal ,   R ,58,R precuneus
+ctx-rh-rostralanteriorcingulate,   rrACC ,4,38,4,Cingulate ,   R ,59,R rostral anterior cingulate cortex
+ctx-rh-rostralmiddlefrontal,   rrMFG ,43,45,21,  Frontal ,   R ,60,R rostral middle frontal gyrus
+ctx-rh-superiorfrontal,    rSFG ,16,34,53,  Frontal ,   R ,61,R superior frontal gyrus
+ctx-rh-superiorparietal,    rSPL ,17,-65,59, Parietal ,   R ,62,R superior parietal lobule
+ctx-rh-superiortemporal,    rSTG ,67,-12,-1, Temporal ,   R ,63,R superior temporal gyrus
+ctx-rh-supramarginal,   rSMAR ,65,-36,35, Parietal ,   R ,64,R supramarginal gyrus
+ctx-rh-frontalpole,     rFP ,9,64,-13,  Frontal ,   R ,65,R frontal pole
+ctx-rh-temporalpole,     rTP ,37,21,-38, Temporal ,   R ,66,R temporal pole
+ctx-rh-transversetemporal,     rTT ,45,-25,11, Temporal ,   R ,67,R transverse temporal
+ctx-rh-insula,    rINS ,43,12,-6,   Insula ,   R ,68,R insula
